@@ -37,7 +37,7 @@
       "Test_mode_unity"     : "yes",
       "Test_mode_appodeal"  : "yes",
       "Debug_mode_facebook" : "yes",
-      "Show_help_toast"     : "yes",
+      "Show_help_toast"     : "no",
 
       "ClicksTo_showAd": "1",
       "Active_PackageName": "com.mygfx.hamguide",
