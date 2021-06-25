@@ -23,11 +23,11 @@
       "Appodeal_id": "01234567890123457890145789",
       "Startapp_id": "206768024",
 
-      "Active_Ad_network": "admob appodeal startapp",
+      "Active_Ad_network": "Mopub appodeal startapp",
 
-      "Ad__1__Interstitial": "Mopub",
+      "Ad__1__Interstitial": "mopub",
       "Ad__2__Interstitial": "appodeal",
-      "Ad__3__Interstitial": "Mopub",
+      "Ad__3__Interstitial": "mopub",
       "Ad__4__Interstitial": "startapp",
 
       "Ad__X__Banner": "Mopub",
