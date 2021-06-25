@@ -25,12 +25,12 @@
 
       "Active_Ad_network": "admob appodeal startapp",
 
-      "Ad__1__Interstitial": "admob",
+      "Ad__1__Interstitial": "Mopub",
       "Ad__2__Interstitial": "appodeal",
-      "Ad__3__Interstitial": "admob",
+      "Ad__3__Interstitial": "Mopub",
       "Ad__4__Interstitial": "startapp",
 
-      "Ad__X__Banner": "admob",
+      "Ad__X__Banner": "Mopub",
       "Ad__X__Native": "admob",
       "Ad__X__Rectangle": "admob",
 
